@@ -29,6 +29,7 @@ module.exports = {
             "single"
         ],
         "react/jsx-uses-react": "error",
-        "react/jsx-uses-var": "error"
+        "react/jsx-uses-vars": "error"
+        
     }
 };
